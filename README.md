@@ -1,5 +1,5 @@
-# Welcome Developers
+# Next Commerce
 
-## Submit your awesome projects and be a part of the open source community
+## Full fledge react next ecommerce app
 
 Read the Contribution rules [here](./CONTRIBUTING.md) for more help.
