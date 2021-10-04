@@ -1,7 +1,8 @@
 ## Contribution Guidelines:
+
 - Create/find an issue
 - Fork the repository
-- then 
+- then
 
         git clone https://github.com/<your-username>/your-awesome-projects
         cd your-awesome-projects
@@ -13,7 +14,7 @@
 - Modification to existing projects will be accepted here.
 - ### Make a separate folder for your project and make your changes to that folder only.
 - If possible document your project.
-- Create Issues with a proper title. 
+- Create Issues with a proper title.
 
 ## Get help from Guthub:
 
